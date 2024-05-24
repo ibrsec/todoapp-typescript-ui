@@ -4,7 +4,7 @@ import Stack from "@mui/material/Stack";
 import Header from "../components/Header";
 import InputBox from "../components/InputBox";
 import Todos from "../components/Todos";
-import { useEffect, useState } from "react"; 
+import {   useState } from "react"; 
 import { TodoType } from "../types";
 
 
