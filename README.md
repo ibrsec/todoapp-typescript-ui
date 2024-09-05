@@ -11,7 +11,7 @@
   <h3 align="center">Typescript Todo App</h3>
 
   <p align="center">
-    An awesome Typescript Todo App
+    An awesome Typescript Todo App (just ui)
     <a href="https://github.com/ibrsec/todoapp-typescript-ui"><strong>Explore the docs »</strong></a>
     <br />
     <br />
